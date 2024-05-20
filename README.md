@@ -23,6 +23,10 @@ The Employee Management System is a full-stack web application built using the M
 -   **Database:**
     -   MongoDB
 
+##Video-show
+https://github.com/hyperaid/EMPLOYEE-MANAGEMENT/assets/97845012/d633fb0b-b3ab-4a09-8673-f243eceba34a
+
+
 ## Installation
 
 1.  Clone the repository:
@@ -76,6 +80,9 @@ Contributions are welcome! Feel free to submit issues or pull requests.
 This project is licensed under the MIT License.# Employee Management System
 
 ## Description
+
+
+
 
 The Employee Management System is a full-stack web application built using the MERN stack (MongoDB, Express.js, React.js, Node.js) for efficient management of employee data. It provides functionalities for adding and removing employees, as well as centralized display of employee information.
 
